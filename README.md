@@ -1,3 +1,21 @@
+# Model for Image Classification of Ball Games on [Render](https://render.com) using [fast.ai](https://www.fast.ai)
+
+Link: (https://jk-ball-games.onrender.com/)
+
+Supported ball games:
+'american_football', 
+'baseball', 
+'basketball', 
+'cricket', 
+'golf', 
+'handball', 
+'lacrosse', 
+'rugby', 
+'soccer', 
+'squash', 
+'tennis', 
+'volleyball'
+
 # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
